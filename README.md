@@ -6,6 +6,7 @@ These are the exercise files used for [Statistics Fundamental Training](https://
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/basic-python-training-for-beginners-in-singapore.html
+https://www.tertiarycourses.com.my/statistics-fundamental-training-malaysia.html
 
 <h2>Day 1</h2>
 <p><strong>Module 1 Basic Statistics</strong></p>
